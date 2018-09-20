@@ -1,18 +1,23 @@
-# Applied Data Science @ Columbia
+﻿# Applied Data Science @ Columbia
 ## Fall 2018
 ## Project 1: What made you happy today?
 
-![image](figs/title.jpeg)
+![image](figs/Are-You-Happy.jpg)
 
 ### [Project Description](doc/)
-This is the first and only *individual* (as opposed to *team*) this semester. 
 
 Term: Fall 2018
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: Several hints about happinese, happinese now or overcome the pain in the past?
++ This project is conducted by Yang Chen, YC3335
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: I conduct a brief study on different people have various demographic characteristics to find out what make them feel happy. This study used text minning techniques, analyze keywords and sentiments and topic divide. The results showed that mostly people feel happy from their friends and family members, however, people with different demographic characteristics have relatively different factor to make them happy.
+
+![image](figs/hayyp_moment.jpg)
+
+### [Project Report](https://cdn.rawgit.com/TZstatsADS/Fall2018-Proj1-spandcy/master/output/Project1_report_yc3335.html)
+
+### [Project Code](doc/Project1_report_yc3335.Rmd)
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
